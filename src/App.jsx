@@ -1,7 +1,7 @@
 import "./App.css";
-import Todo from "./assets/Components/Todo/Todo";
-import Navbar from "./assets/Components/Navbar/Navbar";
-import Footer from "./assets/Components/Footer/Footer";
+import Todo from "./Components/Todo";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
 function App() {
   return (
     <>
